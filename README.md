@@ -26,3 +26,49 @@ A clean and simple quiz application perfect for university projects or learning 
 1. Clone repository:
    ```bash
    git clone https://github.com/shatattya/php-quiz-app.git
+   
+## 2. Database Setup 🗃️
+
+### Automated Setup (Recommended)
+
+1.  **Start your local server** (XAMPP/MAMP/WAMP)
+2.  **Open in browser:**
+    [http://localhost/php-quiz-app/setup.php](http://localhost/php-quiz-app/setup.php)
+3.  You should see: "Database initialized successfully!"
+
+## Academic Use 🎓
+
+**Perfect for:**
+* PHP/MySQL coursework
+* Web development basics
+* Database integration demos
+* Simple assessment systems
+
+---
+
+## FAQ ❓
+
+* **Q: How to change questions?**
+    * A: Edit `setup.php` and modify the INSERT statements
+* **Q: Why am I seeing database errors?**
+    * A: Ensure MySQL is running and check credentials in files
+* **Q: Can I add more questions?**
+    * A: Yes! Modify `setup.php` and follow existing pattern
+ 
+## Course Applications
+
+| Course             | Use Case                     |
+|--------------------|------------------------------|
+| Web Development    | Final project submission     |
+| Database Systems   | Demonstrate CRUD operations  |
+| Software Engineering| SDLC implementation example|
+| HCI                | UI/UX analysis case study    |
+
+---
+
+## Project Extensions
+
+* Add timer functionality ⏱️
+* Implement user authentication 🔐
+* Create admin dashboard 📊
+* Add multiple quiz categories 📚
