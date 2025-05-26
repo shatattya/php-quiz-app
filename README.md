@@ -5,8 +5,8 @@
 
 A clean and simple quiz application perfect for university projects or learning PHP fundamentals. Features 5 programming/general knowledge questions with instant scoring.
 
-![Quiz Screenshot](quiz.png)
-![Quiz Screenshot](result.png)
+![Quiz Screenshot](quiz.jpg)
+![Quiz Screenshot](result.jpg)
 
 ## Features ✨
 - 5 curated questions with multiple choices
