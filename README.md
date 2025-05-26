@@ -5,7 +5,8 @@
 
 A clean and simple quiz application perfect for university projects or learning PHP fundamentals. Features 5 programming/general knowledge questions with instant scoring.
 
-![Quiz Screenshot](screenshot.png) *Add screenshot later*
+![Quiz Screenshot](quiz.png)
+![Quiz Screenshot](result.png)
 
 ## Features ✨
 - 5 curated questions with multiple choices
@@ -18,10 +19,10 @@ A clean and simple quiz application perfect for university projects or learning 
 ## Requirements 📋
 - PHP 7.4+
 - MySQL/MariaDB
-- Web server (Apache/Nginx)
+- Web server (Xampp/Nginx)
 - Basic PHP/MySQL knowledge
 
 ## Installation 🛠️
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/php-quiz-app.git
+   git clone https://github.com/shatattya/php-quiz-app.git
