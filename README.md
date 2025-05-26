@@ -72,3 +72,16 @@ A clean and simple quiz application perfect for university projects or learning 
 * Implement user authentication 🔐
 * Create admin dashboard 📊
 * Add multiple quiz categories 📚
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
+
+**Permissions include:**
+* Use for commercial purposes
+* Modify and distribute
+* Use privately
+
+**Limitations:**
+* No liability
+* No warranty
